@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP" type="php">
+        <CLASSES>
+          <root url="file:///Applications/XAMPP/xamppfiles/lib/php" />
+          <root url="file://$USER_HOME$/PhpstormProjects/phpepub/vendor/composer" />
+          <root url="file://$USER_HOME$/PhpstormProjects/phpepub/vendor/grandt/binstring" />
+          <root url="file://$USER_HOME$/PhpstormProjects/phpepub/vendor/grandt/phpresizegif" />
+          <root url="file://$USER_HOME$/PhpstormProjects/phpepub/vendor/grandt/phpzipmerge" />
+          <root url="file://$USER_HOME$/PhpstormProjects/phpepub/vendor/grandt/relativepath" />
+          <root url="file://$USER_HOME$/PhpstormProjects/phpepub/vendor/phpzip/phpzip" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///Applications/XAMPP/xamppfiles/lib/php" />
+          <root url="file://$USER_HOME$/PhpstormProjects/phpepub/vendor/composer" />
+          <root url="file://$USER_HOME$/PhpstormProjects/phpepub/vendor/grandt/binstring" />
+          <root url="file://$USER_HOME$/PhpstormProjects/phpepub/vendor/grandt/phpresizegif" />
+          <root url="file://$USER_HOME$/PhpstormProjects/phpepub/vendor/grandt/phpzipmerge" />
+          <root url="file://$USER_HOME$/PhpstormProjects/phpepub/vendor/grandt/relativepath" />
+          <root url="file://$USER_HOME$/PhpstormProjects/phpepub/vendor/phpzip/phpzip" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$USER_HOME$/PhpstormProjects/phpepub/vendor/grandt/relativepath/composer.phar/" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$USER_HOME$/PhpstormProjects/phpepub/vendor/grandt/relativepath/composer.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
